@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 secret_files
 __pycache__
+.DS_Store
+/collab_filtering/data
+/collab_filtering/Yahoo
